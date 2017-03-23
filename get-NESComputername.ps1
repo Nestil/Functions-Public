@@ -16,5 +16,3 @@ function Get-Computername {
  Get-WMIObject Win32_ComputerSystem | Select-Object -ExpandProperty name
 
  } 
-
- Get-Computername
