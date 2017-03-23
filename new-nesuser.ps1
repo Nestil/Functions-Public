@@ -1,4 +1,7 @@
-﻿
+﻿<#
+ # Script to add user
+#>
+
 Param(
     [parameter(mandatory=$true,HelpMessage="First Name")]
     [ValidateLength(3,20)]
