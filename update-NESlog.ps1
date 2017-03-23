@@ -5,7 +5,6 @@
     Created: 2017-03-23
     Version: 1.0
     Author : Mikael Wijk
-    Blog   : http://deploymentbunny.com
     Disclaimer: This script is provided "AS IS" with no warranties.
 .EXAMPLE
     
